@@ -1,4 +1,5 @@
-https://jsfiddle.net/MatHook/q98k6wj4/6/
+# https://jsfiddle.net/MatHook/q98k6wj4/6/
+# estask.netlify.app
 * Изменен тип input
 * Изменен trasform translate в нужную сторону
 * Сабмит формы по дефолту

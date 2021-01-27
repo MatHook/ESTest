@@ -21,7 +21,7 @@ const PopUp = () => {
       <PopUpStyled>
         {photo ? (
           <>
-            <img src={photo.url} alt="photo" />
+            <img src={photo.url} alt="popup" />
             {photoId === 1 ? (
               <span className={"leftArr disable"}>&#8656;</span>
             ) : (
